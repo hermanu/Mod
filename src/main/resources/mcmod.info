@@ -1,0 +1,22 @@
+[
+{
+  "modid": "ModTest",
+  "name": "Mod Test",
+  "description": "Probando mod!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "pahimar",
+    "manu"
+  ],
+  "credits": "manu",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
